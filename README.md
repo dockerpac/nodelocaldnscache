@@ -8,7 +8,7 @@ NodeLocalDnsCache is a feature introduced in Kubernetes 1.18 which is aiming to 
 * conntrack issues (see [DNS intermittent delays of 5s issue](https://github.com/kubernetes/kubernetes/issues/56903) and [racy conntrack and dns lookup timeouts](https://www.weave.works/blog/racy-conntrack-and-dns-lookup-timeouts))
 
 
-See more details in the [official Kubernetes Documentation](https://kubernetes.io/docs/tasks/administer-cluster/nodelocaldns/)
+See more details in the [official Kubernetes Documentation](https://kubernetes.io/docs/tasks/administer-cluster/nodelocaldns/) and in [this article](https://povilasv.me/kubernetes-node-local-dns-cache)
 
 ## How it works
 
